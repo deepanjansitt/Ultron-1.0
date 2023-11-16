@@ -1,9 +1,5 @@
 # Ultron-1.0 AI-Android-app
-<div align="left">
-  <img src="https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2FUsing_Deep_Learning_to_Design_Real_time_Face_Detection_and_Recognition_Systems_938a8cdcd7.jpg&w=1920&q=75" width="1000"/>
-</div>
-
-[![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+<center><img src="https://github.com/deepanjansitt/deepanjansitt/blob/main/Github%20Banner/Background%20Image.png" width="2000"></center></img>
 
 🤖 Introducing Ultron-1.0 AI, an advanced artificial intelligence designed to provide prompt, precise, and insightful responses to your inquiries in real-time. Whether you require assistance with daily tasks, seek knowledge, or simply wish to engage in conversation, Ultron-1.0 AI is here to meet your needs.
 
