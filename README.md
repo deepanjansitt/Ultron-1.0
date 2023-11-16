@@ -21,8 +21,7 @@
 
 8. Promptly report any technical issues, security concerns, or unexpected behavior to the manufacturer or support team to ensure a safe user experience.
 
-Remember to use Ultron-1.0 AI Assistant responsibly, prioritize privacy, and take necessary precautions for a secure and enjoyable user interaction.
-# Demo App
+# Ultron-Ai App
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1c7ReaIftR4D9xbZGU-yAyeGm1gHLCure/view?usp=drivesdk">
