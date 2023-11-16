@@ -1,6 +1,4 @@
-# Ultron-1.0
 # Ultron-1.0 AI-Android-app
-
 <div align="left">
   <img src="https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2FUsing_Deep_Learning_to_Design_Real_time_Face_Detection_and_Recognition_Systems_938a8cdcd7.jpg&w=1920&q=75" width="1000"/>
 </div>
