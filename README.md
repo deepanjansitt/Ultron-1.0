@@ -1,5 +1,5 @@
 # Ultron-1.0 AI-Android-app
-<center><img src="https://github.com/deepanjansitt/deepanjansitt/blob/main/Github%20Banner/Background%20Image.png" width="2000"></center></img>
+<center><img src="https://github.com/deepanjansitt/Ultron-1.0/blob/main/Ultron-1.0%20banner/photo_2023-11-17_01-01-57.jpg" width="1000"></center></img>
 
 🤖 Introducing Ultron-1.0 AI, an advanced artificial intelligence designed to provide prompt, precise, and insightful responses to your inquiries in real-time. Whether you require assistance with daily tasks, seek knowledge, or simply wish to engage in conversation, Ultron-1.0 AI is here to meet your needs.
 
