@@ -58,3 +58,14 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/deepanjansitt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deepanjansitt" /></a><a href="https://ko-fi.com/deepanjansitt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="deepanjansitt" /></a></p><br><br><br>
+
+## Credits
+
+- Graphics: [photoshop](https://www.adobe.com/products/photoshop.html) and [illustrator](https://www.adobe.com/products/illustrator.html)
+- Game Engine: [Unity](https://unity3d.com/)
+- Audio: [FL Studio](https://www.image-line.com/flstudio/) and [freesound.org](https://freesound.org/)
+- Thanks to all of the friends for their awesome help.
+
+
+Made with :heart: by [deepanjansitt](https://github.com/deepanjansitt)
+
