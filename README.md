@@ -38,9 +38,9 @@
     <th>Example 3</th>
   </tr>
   <tr>
-    <td><img src="Screenshots/s1.png"/></td>
-    <td><img src="Screenshots/s2.png"/></td>
-    <td><img src="Screenshots/s3.png"/></td>
+    <td><img src="Screenshots/s1.jpg"/></td>
+    <td><img src="Screenshots/s2.jpg"/></td>
+    <td><img src="Screenshots/s3.jpg"/></td>
   </tr>
   <tr>
     <th>Example 4</th>
@@ -48,9 +48,9 @@
     <th>Example 6</th>
   </tr>
   <tr>
-    <td><img src="Screenshots/s4.png"/></td>
-    <td><img src="Screenshots/s5.png"/></td>
-    <td><img src="Screenshots/s6.png"/></td>
+    <td><img src="Screenshots/s4.jpg"/></td>
+    <td><img src="Screenshots/s5.jpg"/></td>
+    <td><img src="Screenshots/s6.jpg"/></td>
   </tr>
  
 </table>
