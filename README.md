@@ -62,7 +62,7 @@
 ## Credits
 
 - Graphics: [photoshop](https://www.adobe.com/products/photoshop.html) and [illustrator](https://www.adobe.com/products/illustrator.html)
-- Game Engine: [Unity](https://unity3d.com/)
+- Develop Engine: [Android studio](https://developer.android.com/)
 - Audio: [FL Studio](https://www.image-line.com/flstudio/) and [freesound.org](https://freesound.org/)
 - Thanks to all of the friends for their awesome help.
 
