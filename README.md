@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<b>NOTE:</b> Users are advised that the application is intended for lawful and ethical purposes only. Any use of the app for illegal activities is strictly prohibited.
+<b>NOTE:</b> Users are advised that the application is intended for ethical purposes only. Any use of the app for illegal activities is strictly prohibited.
 
 <table style="width:100%">
   <tr>
